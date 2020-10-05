@@ -26,11 +26,11 @@
 
 
 
-- 🔭 I'm a freelance software developer
+- 🔭 I'm a freelance Software Developer!
 - 🌱 I’m currently learning more about Full Stack Web/App Development.
 - 👯 I’m looking to collaborate for my venture [The Designer Dev](https://instagram.com/thedesignerdev_).
-- 💬 Ask me about anything related to software development and designing
-- 📫 How to reach me: [Twitter](https://twitter.com/mahakmakharia) , [Mail](mailto:mahakmakharia@gmail.com)
+- 💬 Ask me about anything related to software development and designing.
+- 📫 How to reach me: [Twitter](https://twitter.com/mahakmakharia)/[Mail](mailto:mahakmakharia@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm at times found selling clothes at my father's shop :P
 
