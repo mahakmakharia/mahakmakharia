@@ -1,4 +1,4 @@
-## Hola, I'm [Mahak Makharia!](https://mahak.me) 👋
+## Hola, I'm [Mahak Makharia!](https://mahakmakharia.com) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahakmakharia&label=Views&color=blue&style=plastic" alt="mahakmakharia" /> </p>
 
@@ -10,9 +10,6 @@
 </a>
 <a href="https://github.com/mahakmakharia">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/mahakmakharia">
-  <img align="left" alt="Mahak's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/mahakmakharia/">
   <img align="left" alt="Mahak's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -26,9 +23,9 @@
 
 
 
-- 🔭 I'm a freelance Software Developer!
+- 🔭 I'm a Software Developer in making.
 - 🌱 I’m currently learning more about Full Stack Web/App Development.
-- 👯 I’m looking to collaborate for my venture [The Designer Dev](https://instagram.com/thedesignerdev_).
+- 👯 I love designing both digitally and on paper, I run a page named [The Designer Dev](https://designerdev.in)
 - 💬 Ask me about anything related to software development and designing.
 - 📫 How to reach me: [Twitter](https://twitter.com/mahakmakharia)/[Mail](mailto:mahakmakharia@gmail.com)
 - 😄 Pronouns: She/Her
