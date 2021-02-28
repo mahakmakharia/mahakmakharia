@@ -23,13 +23,13 @@
 
 
 
-- 🔭 I'm a Software Developer in making.
-- 🌱 I’m currently learning more about Full Stack Web/App Development.
-- 👯 I love designing both digitally and on paper, I run a page named [The Designer Dev](https://designerdev.in)
-- 💬 Ask me about anything related to software development and designing.
-- 📫 How to reach me: [Twitter](https://twitter.com/mahakmakharia)/[Mail](mailto:mahakmakharia@gmail.com)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm at times found selling clothes at my father's shop :P
+I love to build things from scratch. I'd started my journey in tech with Java, by making small games like Tic Tac Toe using arrays, today, I can design and develop Mobile/Web/Desktop Apps and Extensions using Javascript. I loved painting and sketching as a teenager. This hobby of mine turned into a side hustle. I am also known as "The Designer Dev."
+
+I'll tag myself as a jack of all trades who's finding the environment where she'll thrive the best.
+
+I strongly believe in the saying that nothing happens until when we put in the effort to make it happen! :)
+
+Fun fact: I'm at times found selling clothes at my father's shop. 
 
 
 **Languages and Tools:**  
