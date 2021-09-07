@@ -17,20 +17,9 @@
 
 
 
-I love to build things from scratch. I'd started my journey in tech with Java, by making small games like Tic Tac Toe using arrays, today, I can design and develop Mobile/Web/Desktop Apps and Extensions using Javascript. I loved painting and sketching as a teenager. This hobby of mine turned into a side hustle. I am also known as "[The Designer Dev.](https://designerdev.in)"
+I love to build things from scratch. I strongly believe in the saying that nothing happens until when we put in the effort to make it happen! :)
 
-I tag myself as a jack of all trades who's finding the environment where she'll thrive the best.
-
-I strongly believe in the saying that nothing happens until when we put in the effort to make it happen! :)
-
-I'm always up for an interesting conversation, you can reach out to me on any social media platform ( yes everywhere it's @mahakmakharia) or [e-mail](mailto:makhariamahak@gmail.com) me. I reply to my emails the fastest :P
+I'm always up for an interesting conversation, you can reach out to me on any social media platform (yes everywhere it's @mahakmakharia) or [e-mail](mailto:makhariamahak@gmail.com) me. I reply to my emails the fastest :P
 
 Fun fact: I'm at times found selling clothes at my father's shop. 
   
-
-<!-- <a href="https://github.com/mahakmakharia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahakmakharia&theme=light&hide_langs_below=1" />
-</a> -->
-<a href="https://github.com/mahakmakharia">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahakmakharia&show_icons=true&theme=light&line_height=27" alt="Mahak's github stats"/>
-</a>
