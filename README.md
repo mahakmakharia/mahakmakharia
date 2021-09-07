@@ -6,11 +6,6 @@ I'm always up for an interesting conversation, you can reach out to me on any so
 
 Fun fact: I'm at times found selling clothes at my father's shop. 
 
-<br/>
-<br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahakmakharia&label=Views&color=blue&style=plastic" alt="mahakmakharia" /> </p>
-
 <a href="https://twitter.com/mahakmakharia">
   <img align="left" alt="Mahak's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
