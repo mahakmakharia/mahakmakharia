@@ -6,9 +6,9 @@
   <img align="left" alt="Mahak's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/mahakmakharia">
-  <img align="left" alt="Pawan'sMahak's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Mahak's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://instagram.com/mahakmakharia/">
+<a href="https://instagram.com/thedesignerdev_/">
   <img align="left" alt="Mahak's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
